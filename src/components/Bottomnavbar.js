@@ -15,7 +15,6 @@ const Bottomnavbar = () => {
       <div className="border-t  md:border-t-0 border-gray-900 py-3 md:p-10  md:text-justify">
         <strong className="underline">Community</strong>
         <div className="mt-4 underlined cursor-pointer">- Cloudbnb magazine</div>
-        <div className="mt-2 underlined cursor-pointer">- Gift cards</div>
         <div className="mt-2 underlined cursor-pointer">- Accessibility</div>
         <div className="mt-2 underlined cursor-pointer">- Facebook groups</div>
       </div>
