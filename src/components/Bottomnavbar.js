@@ -9,7 +9,6 @@ const Bottomnavbar = () => {
         <div className="mt-4 underlined cursor-pointer">- How cloudbnb works</div>
         <div className="mt-2 underlined cursor-pointer">- News</div>
         <div className="mt-2 underlined cursor-pointer">- History</div>
-        <div className="mt-2 underlined cursor-pointer">- Staff</div>
       </div>
 
 
