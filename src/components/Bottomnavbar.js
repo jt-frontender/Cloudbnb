@@ -28,6 +28,7 @@ const Bottomnavbar = () => {
         <div className="mt-2 underlined cursor-pointer">- Host an online experience </div>
         <div className="mt-2 underlined cursor-pointer">- Community center</div>
         <div className="mt-2 underlined cursor-pointer">- Community center 2</div>
+        <div className="mt-2 underlined cursor-pointer">- Community center 3</div>
       </div>
 
     </div>
