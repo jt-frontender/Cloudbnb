@@ -30,6 +30,7 @@ const Bottomnavbar = () => {
         <div className="mt-2 underlined cursor-pointer">- Community center 2</div>
         <div className="mt-2 underlined cursor-pointer">- Community center 3</div>
         <div className="mt-2 underlined cursor-pointer">- Community center 4</div>
+            <div className="mt-2 underlined cursor-pointer">- Community center 5</div>
       </div>
 
     </div>
